@@ -1,0 +1,15 @@
+body{
+    display: inline-flex;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+}
+
+.imageContainer img{
+    display: inline-flex;
+    border: 1px solid black;
+    min-width: 10vw;
+    min-height: 30vh;
+    margin-bottom: 2vh;
+    justify-content: center;
+}
